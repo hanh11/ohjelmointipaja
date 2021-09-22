@@ -1,0 +1,67 @@
+section
+{
+margin: 20px;
+float: left;
+width: 500px;
+}
+#yksi
+{
+  color: white;
+  padding: 10px;
+  background-color: red;
+}
+#kaksi
+{
+  color: white;
+  padding: 10px;
+  background-color: blue;
+
+}
+#kolme
+{
+  color: white;
+  padding: 10px;
+  background-color: yellow;
+}
+#nelja
+{
+  color: white;
+  padding: 10px;
+  background-color: green;
+}
+#viisi
+{
+  color: white;
+  padding: 10px;
+  background-color: brown;
+}
+#kuusi{
+  color: white;
+  padding: 10px;
+  background-color: purple;
+}
+#seitseman{
+  color: white;
+  padding: 10px;
+  background-color: purple;
+}
+#kahdeksan{
+  color: white;
+  padding: 10px;
+  background-color: purple;
+}
+#yhdeksan{
+  color: white;
+  padding: 10px;
+  background-color: purple;
+}
+#kymmenen{
+  color: white;
+  padding: 10px;
+  background-color: purple;
+}
+#yksitoista{
+  color: white;
+  padding: 10px;
+  background-color: purple;
+}
